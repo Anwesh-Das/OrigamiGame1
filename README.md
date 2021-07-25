@@ -1,1 +1,1 @@
-# OrigamiGame1
+# Origami-Designs
